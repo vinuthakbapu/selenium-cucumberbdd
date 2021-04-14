@@ -1,0 +1,5 @@
+com\qa\pages\LoginPage.class
+com\qa\utils\TestBase.class
+com\qa\utils\Hooks.class
+com\qa\runners\MyRunnerTest.class
+com\qa\stepdefinition\LoginSteps.class
